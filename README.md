@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zubair-Rajpoot
-- 👀 I’m interested in Web, Desktop and Android Develeopment.
-- 🌱 I’m currently learning NodeJs.
+- 👀 I’m interested in Backend and Blockchain Development.
+- 🌱 I’m currently learning Blockchain.
 - 💞️ I’m looking to collaborate on Awesome Projects.
 - 📫 How to reach me zubairshahid008@gmail.com
 
