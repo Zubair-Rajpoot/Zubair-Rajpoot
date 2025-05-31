@@ -1,4 +1,4 @@
-👋 Hi there, I'm Zubair Rajpoot (@Zubair-Rajpoot)
+👋 Hi there, I'm Muhammad Zubair Shahid (@Zubair-Rajpoot)
 
 🚀 Backend Developer | TypeScript Enthusiast | Blockchain Explorer
 
