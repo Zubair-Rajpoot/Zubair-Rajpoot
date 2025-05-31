@@ -17,6 +17,7 @@ I'm a backend developer with hands-on experience in building scalable systems us
 🤖 Integrate Large Language Models (LLMs) like OpenAI's ChatGPT, Anthropic's Claude, and Google Gemini into backend services for automation, intelligent agents, and enhanced user experiences.
 
 🔍 Currently Exploring
+
 🌐 Blockchain development – diving into smart contracts, Web3, and decentralized applications.
 
 🧩 Advanced use cases for LLMs in backend systems – including prompt engineering, semantic search, and AI-based assistants.
@@ -24,6 +25,7 @@ I'm a backend developer with hands-on experience in building scalable systems us
 🛠️ Contributing to open source and learning about distributed systems.
 
 🤝 Let's Collaborate
+
 I'm open to working on exciting projects, especially those involving:
 
 Backend system design & optimization
