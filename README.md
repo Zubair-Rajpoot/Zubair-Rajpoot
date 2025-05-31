@@ -1,8 +1,11 @@
 👋 Hi there, I'm Zubair Rajpoot (@Zubair-Rajpoot)
+
 🚀 Backend Developer | TypeScript Enthusiast | Blockchain Explorer
+
 I'm a backend developer with hands-on experience in building scalable systems using Node.js, Express, and InversifyJS with TypeScript. I design and implement both monolithic and microservices architectures that are clean, efficient, and production-ready.
 
 👨‍💻 What I Do
+
 🔧 Build scalable and maintainable backend systems.
 
 🧠 Follow clean architecture and SOLID principles using TypeScript + InversifyJS.
